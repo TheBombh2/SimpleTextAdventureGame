@@ -1,0 +1,7 @@
+﻿  SmallGameTesting.cpp
+D:\PROJECTS\SmallGameTesting\SmallGameTesting\SmallGameTesting.cpp(66,12): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\PROJECTS\SmallGameTesting\SmallGameTesting\SmallGameTesting.cpp(88,11): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\PROJECTS\SmallGameTesting\SmallGameTesting\SmallGameTesting.cpp(186,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\PROJECTS\SmallGameTesting\SmallGameTesting\SmallGameTesting.cpp(264,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\PROJECTS\SmallGameTesting\SmallGameTesting\SmallGameTesting.cpp(118): warning C4715: 'convert': not all control paths return a value
+  SmallGameTesting.vcxproj -> D:\PROJECTS\SmallGameTesting\x64\Debug\SmallGameTesting.exe
